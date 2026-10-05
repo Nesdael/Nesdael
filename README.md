@@ -10,7 +10,6 @@
 
 ### 🚀 About Me
 
-- 🧭 Currently **technical director of 4 development teams** at RIWI — in charge of architecture, CI/CD and deployments for NestJS + PostgreSQL projects
 - 🎓 Software development student at **RIWI** (advanced Node.js + NestJS track)
 - 🧠 What I enjoy most: designing clean **REST APIs**, modeling relational databases and solving backend problems
 - 🔀 I work with **GitFlow**, **Conventional Commits** and protected branches with Pull Request reviews
@@ -58,7 +57,6 @@
 | Project | Description | Stack |
 |---|---|---|
 | **[Altea](LINK_AQUI)** | Talent platform that connects junior developers with recruiters. I was the backend developer: JWT auth, availability model and the API. | Express · PostgreSQL · Supabase · JS |
-| **[Restaurant API](https://github.com/Nesdael/Restaurante-grupo3)** | Team project (Scrum, GitFlow): restaurant management API with tables, categories, products, menu and reservations. | NestJS · TypeScript · PostgreSQL · Docker |
 | **[English Bot](LINK_AQUI)** | Personal project: Telegram bot + web page to practice English vocabulary and pronunciation every day. | Node.js · Telegram API |
 
 ---
